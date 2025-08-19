@@ -1,0 +1,2 @@
+Generator Loss: 0.39785326
+Discriminator Loss: 1.4738988

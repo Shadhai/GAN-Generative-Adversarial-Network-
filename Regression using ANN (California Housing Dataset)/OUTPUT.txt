@@ -1,0 +1,19 @@
+OUTPUT:
+Epoch 1/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 2ms/step - loss: 0.9768 - mae: 0.6695 - val_loss: 0.4505 - val_mae: 0.4897
+Epoch 2/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 1ms/step - loss: 0.3995 - mae: 0.4493 - val_loss: 0.4432 - val_mae: 0.4862
+Epoch 3/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 1ms/step - loss: 0.3745 - mae: 0.4344 - val_loss: 0.3890 - val_mae: 0.4380
+Epoch 4/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 1ms/step - loss: 0.3640 - mae: 0.4226 - val_loss: 0.3842 - val_mae: 0.4252
+Epoch 5/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 2ms/step - loss: 0.3437 - mae: 0.4121 - val_loss: 0.3627 - val_mae: 0.4173
+Epoch 6/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 1ms/step - loss: 0.3292 - mae: 0.4035 - val_loss: 0.3659 - val_mae: 0.4347
+Epoch 7/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 1ms/step - loss: 0.3333 - mae: 0.3998 - val_loss: 0.3514 - val_mae: 0.4098
+Epoch 8/8
+465/465 ━━━━━━━━━━━━━━━━━━━━ 1s 1ms/step - loss: 0.3179 - mae: 0.3908 - val_loss: 0.3388 - val_mae: 0.4110
+129/129 ━━━━━━━━━━━━━━━━━━━━ 0s 1ms/step - loss: 0.3176 - mae: 0.3988
+Test MAE: 0.3988

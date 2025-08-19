@@ -1,0 +1,26 @@
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 150ms/step
+D:\PythonProject\GANPRATICAL\.venv\Lib\site-packages\keras\src\backend\tensorflow\trainer.py:83: UserWarning: The model does not have any trainable weights.
+  warnings.warn("The model does not have any trainable weights.")
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1755601923.833274   63788 meta_optimizer.cc:967] remapper failed: INVALID_ARGUMENT: Mutation::Apply error: fanout 'gradient_tape/functional_1/discriminator_1/leaky_re_lu_3_1/LeakyRelu/LeakyReluGrad' exist for missing node 'functional_1/discriminator_1/conv2d_1_1/BiasAdd'.
+1/10 [D loss: 0.6742, acc.: 65.62%] [G loss: 0.6759]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 118ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+2/10 [D loss: 0.6737, acc.: 59.64%] [G loss: 0.6601]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 39ms/step
+3/10 [D loss: 0.6759, acc.: 54.48%] [G loss: 0.6432]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+4/10 [D loss: 0.6786, acc.: 50.92%] [G loss: 0.6273]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+5/10 [D loss: 0.6806, acc.: 49.88%] [G loss: 0.6139]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+6/10 [D loss: 0.6821, acc.: 48.14%] [G loss: 0.6033]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 40ms/step
+7/10 [D loss: 0.6829, acc.: 47.14%] [G loss: 0.5943]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 44ms/step
+8/10 [D loss: 0.6833, acc.: 46.30%] [G loss: 0.5865]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 40ms/step
+9/10 [D loss: 0.6833, acc.: 46.37%] [G loss: 0.5790]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+10/10 [D loss: 0.6841, acc.: 44.98%] [G loss: 0.5726]
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 43ms/step
