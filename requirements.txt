@@ -1,0 +1,28 @@
+# Core
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Deep Learning 
+tensorflow>=2.12.0
+keras>=2.12.0
+
+# If you used PyTorch instead of TensorFlow, uncomment below:
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Image processing
+opencv-python>=4.7.0
+Pillow>=9.4.0
+
+# Utilities
+tqdm>=4.64.0
+
+jupyter>=1.0.0
+ipykernel>=6.0.0
